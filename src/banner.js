@@ -1,3 +1,3 @@
 export const addBanner = (text) => {
-  document.querySelector('#context').textContent = text;
+  document.querySelector('#content').textContent = text;
 };
