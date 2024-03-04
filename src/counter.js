@@ -1,5 +1,3 @@
-import { addBanner } from './banner';
-
 import('./style.css');
 
 export const initializeCounter = (doc = globalThis.document) => {
